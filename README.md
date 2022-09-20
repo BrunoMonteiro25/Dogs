@@ -18,6 +18,10 @@ Projeto de rede social tipo instagram, mas para cachorros (ReactJS)
 - Postar Foto
 - Feed interno para cada conta, exibe apenas as fotos postadas de determinado usuário
 - Estatísticas: exibe dois gráficos para o total de acessos nas fotos
+- Postar comentários nas fotos
+- Deletar Fotos, deleta apenas as fotos daquele determinado usuário
+- Visualizar perfil de outros usuários
+- Deslogar
 
 ### Projeto Online :dash:
 
