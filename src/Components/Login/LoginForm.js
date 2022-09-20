@@ -25,6 +25,9 @@ const LoginForm = () => {
   return (
     <section className="animeLeft">
       <Head title="Login" />
+      <h1 style={{ fontSize: '2rem', marginBottom: '3rem' }}>
+        Cadastre-se para testar a aplicação
+      </h1>
       <h1 className="title">Login</h1>
       <form className={styles.form} onSubmit={handleSubmit}>
         <Input label="Usuário" type="text" name="username" {...username} />
