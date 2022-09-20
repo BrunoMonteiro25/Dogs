@@ -41,7 +41,7 @@ const LoginCreate = () => {
         ) : (
           <Button>Cadastrar</Button>
         )}
-        <Error error={error} />
+        <Error error={error && 'Usuário ou Email ja cadastrado.'} />
       </form>
     </section>
   )
