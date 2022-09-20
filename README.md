@@ -15,6 +15,7 @@ Projeto de rede social tipo instagram, mas para cachorros (ReactJS)
 - Trocar Senha
 - Logar (validação nos campos de usuário e senha)
 - Feed de fotos consumido da API Dogs
+- Scroll infinito no Feed
 - Postar Foto
 - Feed interno para cada conta, exibe apenas as fotos postadas de determinado usuário
 - Estatísticas: exibe dois gráficos para o total de acessos nas fotos
