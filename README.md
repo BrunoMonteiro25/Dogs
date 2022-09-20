@@ -10,7 +10,14 @@ Projeto de rede social tipo instagram, mas para cachorros (ReactJS)
 
 ### Funcionalidades :checkered_flag:
 
-- 
+- Cadastro de Usuário
+- Recuperar Senha 
+- Trocar Senha
+- Logar (validação nos campos de usuário e senha)
+- Feed de fotos consumido da API Dogs
+- Postar Foto
+- Feed interno para cada conta, exibe apenas as fotos postadas de determinado usuário
+- Estatísticas: exibe dois gráficos para o total de acessos nas fotos
 
 ### Projeto Online :dash:
 
