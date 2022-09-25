@@ -4,9 +4,13 @@
 
 ### Descrição do Projeto :star:
 
-Projeto de rede social tipo instagram, mas para cachorros (ReactJS)
+Projeto de rede social tipo instagram, mas para cachorros (ReactJS).
+
+Desenvolvido no curso de ReactJS da Origamid.
 
 ![dogs_feed_web](https://user-images.githubusercontent.com/98993736/191201424-6b9dc027-8638-445e-8ba7-4d3c1cc1c188.png)
+
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ### Funcionalidades :checkered_flag:
 
