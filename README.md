@@ -30,6 +30,8 @@ Desenvolvido no curso de ReactJS da Origamid.
 
 ### Projeto Online :dash:
 
+Cadastre-se para testar toda a aplicação.
+
 > https://dogs-lyart.vercel.app/
 
 ### Tecnologias :computer:
